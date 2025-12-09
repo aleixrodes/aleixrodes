@@ -1,134 +1,102 @@
-👣 Hola! Soc en Petica
+# 👣 Hola! Soc en Petica
 
 El desenvolupador creatiu que transforma problemes en funcions, i funcions en problemes nous encara més emocionants.
 
-Benvingut/da al meu univers digital.
+Benvingut/da al meu univers digital.  
 Si has arribat fins aquí és perquè busques un desenvolupador peculiar… o bé t’has perdut entre commits i branchs que ningú recorda haver creat.
 
-Soc en Petica, un creador incansable de línies de codi, idees absurdes, solucions creatives i algun que altre bug filosòfic.
+Soc en Petica, un creador incansable de línies de codi, idees absurdes, solucions creatives i algun que altre bug filosòfic.  
 La meva filosofia és clara: experimentar, equivocar-me, riure, trencar-ho una mica més i finalment fer que funcioni.
 
-Quan programo, acostumo a deixar-ho tot millor del que ho he trobat… excepte quan no ho faig. En aquest cas deixo comentaris útils com “no tocar això”, “funciona per miracle” o “no sé per què fa això, però si ho toques deixa de fer-ho”.
-Sóc professional quan cal, però sempre amb humor, perquè el codi sense humor és com un while(true) sense break: etern i trist.
+Quan programo, acostumo a deixar-ho tot millor del que ho he trobat… excepte quan no ho faig.  
+En aquest cas deixo comentaris útils com *“no tocar això”*, *“funciona per miracle”* o *“no sé per què fa això, però si ho toques deixa de fer-ho”*.  
+Sóc professional quan cal, però sempre amb humor, perquè el codi sense humor és com un `while(true)` sense `break`: etern i trist.
 
-🧠 Sobre mi
+---
 
-🎨 Creatiu fins al límit: Sempre busco solucions que no són les normals… però funcionen.
+## 🧠 Sobre mi
 
-🤡 Tonto i bromista: Variables amb noms absurds, acudits dolents en comentaris i commits poètics.
+- 🎨 **Creatiu fins al límit**: Sempre busco solucions que no són les normals… però funcionen.  
+- 🤡 **Tonto i bromista**: Variables amb noms absurds, acudits dolents en comentaris i commits poètics.  
+- 🧩 **Solucionador i creador de problemes**: Equilibri perfecte entre arreglar i liar-la.  
+- 🧪 **Trial & Error professional**: Provar, fallar, repetir, triomfar accidentalment.  
+- 🌀 **Caos controlat**: Si res estrany està passant al projecte, no m’hi trobo còmode.  
+- 🤖 **Aprenent etern**: Sempre buscant tecnologies noves, encara que facin por.  
 
-🧩 Solucionador i creador de problemes: Equilibri perfecte entre arreglar i liar-la.
+### 💬 Filosofia personal
+> “Si el codi funciona, perfecte. Si no funciona, potser també era la idea.”
 
-🧪 Trial & Error professional: Provar, fallar, repetir, triomfar accidentalment.
+---
 
-🌀 Caos controlat: Si res estrany està passant al projecte, no m’hi trobo còmode.
+## 🛠️ Tecnologies & Eines
 
-🤖 Aprenent etern: Sempre buscant tecnologies noves, encara que facin por.
+### 🐍 Backend & Scripting
+- Python (Flask, FastAPI i experiments propis)  
+- SQL, PL/SQL, Oracle  
+- Bash scripting  
+- Node.js  
 
-💬 Filosofia personal:
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
 
-“Si el codi funciona, perfecte. Si no funciona, potser també era la idea.”
+### 🗄️ Bases de dades
+- Oracle  
+- MySQL  
+- PostgreSQL  
+- SQLite  
 
-🛠️ Tecnologies & Eines
-🐍 Backend & Scripting
+### 🔧 DevOps & Infra
+- Docker  
+- Docker Compose  
+- Git & GitHub  
+- Nginx  
+- Automatització amb scripts  
 
-Python (Flask, FastAPI i experiments propis)
+### 💻 Sistemes i entorns
+- Linux (Ubuntu, Debian, Arch…)  
+- Windows  
+- WSL  
+- PyCharm  
+- Visual Studio Code  
+- IntelliJ  
 
-SQL, PL/SQL, Oracle
+### 🔮 Tecnologies inventades (marca registrada Petica™)
+- PaticaCore Engine™  
+- BugSummoner 3.0  
+- SelfFixingAPI  
+- PatiContainer  
+- QuantumRefactor  
 
-Bash scripting
+---
 
-Node.js
+## 🤝 Col·laborar amb mi
+- Treballo amb humor i creativitat.  
+- Accepto el caos com a part del procés.  
+- Dies bons: commits nets.  
+- Dies dolents: commits d’un sol emoji.  
+- Ganes de provar, fallar, riure i aprendre sempre.  
 
-🌐 Frontend
+---
 
-HTML5
+## 📫 Contacta’m
+*(Afegeix aquí els teus enllaços)*
 
-CSS3
+- LinkedIn:  
+- Email:  
+- Twitter:  
+- Pàgina web:  
 
-Bootstrap
+---
 
-JavaScript
+## 🎉 Epíleg
+Si has arribat fins aquí, felicitats: ja saps més de mi que alguns dels meus propis repositoris.  
 
-🗄️ Bases de dades
+Aquest perfil és una barreja sana de professionalitat, caos, humor, aprenentatge constant i moltíssimes línies de codi que només entenc jo.  
 
-Oracle
-
-MySQL
-
-PostgreSQL
-
-SQLite
-
-🔧 DevOps & Infra
-
-Docker
-
-Docker Compose
-
-Git & GitHub
-
-Nginx
-
-Automatització amb scripts
-
-💻 Sistemes i entorns
-
-Linux (Ubuntu, Debian, Arch…)
-
-Windows
-
-WSL
-
-PyCharm
-
-Visual Studio Code
-
-IntelliJ
-
-🔮 Tecnologies inventades (marca registrada Petica™)
-
-PaticaCore Engine™
-
-BugSummoner 3.0
-
-SelfFixingAPI
-
-PatiContainer
-
-QuantumRefactor
-
-🤝 Col·laborar amb mi
-
-Treballo amb humor i creativitat.
-
-Accepto el caos com a part del procés.
-
-Dies bons: commits nets.
-
-Dies dolents: commits d’un sol emoji.
-
-Ganes de provar, fallar, riure i aprendre sempre.
-
-📫 Contacta’m
-
-(Afegeix aquí els teus enllaços)
-
-LinkedIn:
-
-Email:
-
-Twitter:
-
-Pàgina web:
-
-🎉 Epíleg
-
-Si has arribat fins aquí, felicitats: ja saps més de mi que alguns dels meus propis repositoris.
-
-Aquest perfil és una barreja sana de professionalitat, caos, humor, aprenentatge constant i moltíssimes línies de codi que només entenc jo.
-
-Soc en Petica, i aquest és el meu GitHub.
-Aquí no hi trobaràs perfecció; hi trobaràs evolució.
-No hi trobaràs silenci; hi trobaràs creativitat.
-I sobretot: hi trobaràs un desenvolupador que segueix picant codi amb un somriure… o un facepalm, segons el dia.
+Soc en Petica, i aquest és el meu GitHub.  
+Aquí no hi trobaràs perfecció; hi trobaràs evolució.  
+No hi trobaràs silenci; hi trobaràs creativitat.  
+I sobretot: hi trobaràs un desenvolupador que segueix picant codi amb un somriure… o un *facepalm*, segons el dia.

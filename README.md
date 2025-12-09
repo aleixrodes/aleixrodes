@@ -1,4 +1,4 @@
-# 👣 Hola! Soc en Petica
+# 👣 Hola! Soc en Patica
 
 El desenvolupador creatiu que transforma problemes en funcions, i funcions en problemes nous encara més emocionants.
 

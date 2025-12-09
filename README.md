@@ -84,15 +84,7 @@ Sóc professional quan cal, però sempre amb humor, perquè el codi sense humor 
 
 ---
 
-## 📫 Contacta’m
-*(Afegeix aquí els teus enllaços)*
 
-- LinkedIn:  
-- Email:  
-- Twitter:  
-- Pàgina web:  
-
----
 
 ## 🎉 Epíleg
 Si has arribat fins aquí, felicitats: ja saps més de mi que alguns dels meus propis repositoris.  

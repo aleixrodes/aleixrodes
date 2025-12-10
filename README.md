@@ -97,3 +97,5 @@ No hi trobaràs silenci; hi trobaràs creativitat.
 I sobretot: hi trobaràs un desenvolupador que segueix picant codi amb un somriure… o un *facepalm*, segons el dia.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31idu4jsa4cftav632ccyq52hb3a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
+https://pagespeed-insights.herokuapp.com?url=[your_website_url=https://github.com/aleixrodes&categories=performance,accessibility,best-practices,seo

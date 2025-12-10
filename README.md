@@ -1,5 +1,5 @@
 
-![Header]([https://picsum.photos/800/600](https://github.com/aleixrodes/aleixrodes/blob/main/header.png))
+![Header](https://github.com/aleixrodes/aleixrodes/blob/main/header.png)
 
 
 El desenvolupador creatiu que transforma problemes en funcions, i funcions en problemes nous encara més emocionants.

@@ -96,4 +96,4 @@ Aquí no hi trobaràs perfecció; hi trobaràs evolució.
 No hi trobaràs silenci; hi trobaràs creativitat.  
 I sobretot: hi trobaràs un desenvolupador que segueix picant codi amb un somriure… o un *facepalm*, segons el dia.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialeixrodesanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31idu4jsa4cftav632ccyq52hb3a&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)

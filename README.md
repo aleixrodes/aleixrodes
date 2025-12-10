@@ -1,4 +1,5 @@
-# 👣 Hola! Soc en Patica
+/header.png
+#
 
 El desenvolupador creatiu que transforma problemes en funcions, i funcions en problemes nous encara més emocionants.
 

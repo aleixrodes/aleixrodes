@@ -36,34 +36,44 @@ Sóc professional quan cal, però sempre amb humor, perquè el codi sense humor 
 - Python (Flask, FastAPI i experiments propis)  
 - SQL, PL/SQL, Oracle  
 - Bash scripting  
-- Node.js  
+- Node.js
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### 🌐 Frontend
 - HTML5  
 - CSS3  
 - Bootstrap  
-- JavaScript  
+- JavaScript
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### 🗄️ Bases de dades
 - Oracle  
 - MySQL  
 - PostgreSQL  
-- SQLite  
+- SQLite
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### 🔧 DevOps & Infra
 - Docker  
 - Docker Compose  
 - Git & GitHub  
 - Nginx  
-- Automatització amb scripts  
+- Automatització amb scripts
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### 💻 Sistemes i entorns
 - Linux (Ubuntu, Debian, Arch…)  
 - Windows  
-- WSL  
+- AWS 
 - PyCharm  
 - Visual Studio Code  
-- IntelliJ  
+- IntelliJ
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ### 🔮 Tecnologies inventades (marca registrada Patica™)
 - PaticaCore Engine™  
@@ -72,8 +82,12 @@ Sóc professional quan cal, però sempre amb humor, perquè el codi sense humor 
 - PatiContainer  
 - QuantumRefactor
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
+
+### 🚜 Altres 
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="62" height="62" /></div>
 
 ---
 

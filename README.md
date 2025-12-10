@@ -122,3 +122,7 @@ I sobretot: hi trobaràs un desenvolupador que segueix picant codi amb un somriu
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
+
+## ⭐ Dona una Estrella
+
+[![Stargazers repo roster for @aleixrodes/aleixrodes](https://reporoster.com/stars/dark/aleixrodes/aleixrodes)](https://github.com/aleixrodes/aleixrodes/stargazers)

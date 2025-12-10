@@ -2,10 +2,10 @@
 
 El desenvolupador creatiu que transforma problemes en funcions, i funcions en problemes nous encara més emocionants.
 
-Benvingut/da al meu univers digital.  
+Benvingut/da al meu **univers digital**.  
 Si has arribat fins aquí és perquè busques un desenvolupador peculiar… o bé t’has perdut entre commits i branchs que ningú recorda haver creat.
 
-Soc en Petica, un creador incansable de línies de codi, idees absurdes, solucions creatives i algun que altre bug filosòfic.  
+Soc en *Patica*, un creador incansable de línies de codi, idees absurdes, solucions creatives i algun que altre bug filosòfic.  
 La meva filosofia és clara: experimentar, equivocar-me, riure, trencar-ho una mica més i finalment fer que funcioni.
 
 Quan programo, acostumo a deixar-ho tot millor del que ho he trobat… excepte quan no ho faig.  
@@ -63,7 +63,7 @@ Sóc professional quan cal, però sempre amb humor, perquè el codi sense humor 
 - Visual Studio Code  
 - IntelliJ  
 
-### 🔮 Tecnologies inventades (marca registrada Petica™)
+### 🔮 Tecnologies inventades (marca registrada Patica™)
 - PaticaCore Engine™  
 - BugSummoner 3.0  
 - SelfFixingAPI  
@@ -91,7 +91,9 @@ Si has arribat fins aquí, felicitats: ja saps més de mi que alguns dels meus p
 
 Aquest perfil és una barreja sana de professionalitat, caos, humor, aprenentatge constant i moltíssimes línies de codi que només entenc jo.  
 
-Soc en Petica, i aquest és el meu GitHub.  
+Soc en Patica, i aquest és el meu GitHub.  
 Aquí no hi trobaràs perfecció; hi trobaràs evolució.  
 No hi trobaràs silenci; hi trobaràs creativitat.  
 I sobretot: hi trobaràs un desenvolupador que segueix picant codi amb un somriure… o un *facepalm*, segons el dia.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialeixrodesanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
